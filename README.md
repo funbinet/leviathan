@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Author:</strong> <a href="https://codeberg.org/funbinet">funbinet</a> • <strong>GitHub:</strong> <a href="https://github.com/funbinet">github.com/funbinet</a> • <strong>License:</strong> Proprietary
+  <strong>Codeberg:</strong> <a href="https://codeberg.org/funbinet">codeberg.org/funbinet</a> • <strong>GitHub:</strong> <a href="https://github.com/funbinet">github.com/funbinet</a> • <strong>License:</strong> Proprietary
 </p>
 
 <p align="center">
