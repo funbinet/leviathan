@@ -20,6 +20,11 @@
 
 ---
 
+<p align="center">
+  <img src="leviathan1.png" alt="LEVIATHAN" width="1260"/>
+</p>
+
+---
 ## Overview
 
 **LEVIATHAN** is a modern, feature-rich GUI orchestrator for penetration testing tools on Kali Linux. Built with Python and PyQt6, it provides a unified interface that follows the **Penetration Testing Execution Standard (PTES)** methodology, allowing security professionals to conduct comprehensive assessments through an intuitive graphical interface.
